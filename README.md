@@ -10,6 +10,8 @@ and fixing the code to make it work. There is much room for improvement, but the
 business
 but to learn and have fun and I did 😁.
 
+Disclaimer: I'm not good with frontend and JS, so the frontend is not the best, but it works (at least the happy path).
+
 ## Requirements
 
 * Go 1.19+
