@@ -1,0 +1,5 @@
+trakt:
+  client_id: '[YOUR CLIENT ID]'
+  client_secret: '[YOUR CLIENT SECRET]'
+  api_version: 2
+  domain: 'https://api-staging.trakt.tv'

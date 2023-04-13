@@ -1,0 +1,21 @@
+linters-settings:
+  staticcheck:
+    checks:
+      - SA4006
+  deadcode:
+    skip-files: testdata/
+  govet:
+    check-shadowing: true
+  godot:
+    auto-fix: true
+  wsl:
+    allow-cuddle-declarations: true
+
+linters:
+  enable:
+    - godot
+    - wsl
+  fast: true
+
+run:
+  exclude-use-default: true
