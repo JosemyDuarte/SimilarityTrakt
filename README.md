@@ -13,6 +13,7 @@ but to learn and have fun and I did 😁.
 ## Requirements
 
 * Go 1.19+
+* Node 14+
 
 ## Installation
 
